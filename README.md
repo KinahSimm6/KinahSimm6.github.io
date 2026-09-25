@@ -6,4 +6,4 @@ This project is a personal professional website created for my CMPA-3301-D01 cou
 
 ## Live Website
 
-[Visit my live website](file:///media/archive/Shekinah%20Simmons_Assignment%2002%20(1).zip/index%20(1).html)
+[Visit my live website](https://kinahsimm6.github.io/)
