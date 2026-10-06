@@ -8,3 +8,11 @@ This project is a personal professional website created for my CMPA-3301-D01 cou
 ## Live Website
 
 [Visit my live website](https://kinahsimm6.github.io/)
+
+## Project Documentation
+
+[View the documentation folder](docs/)
+
+- [Project Scope](docs/scope.md)
+- [Project Plan](docs/plan.md)
+- [Project Retrospective](docs/retrospective.md)
